@@ -2,7 +2,6 @@
 
 source "https://rubygems.org"
 
-gem "github-pages"
 gem "jekyll-theme-chirpy", "~> 5.3", ">= 5.3.1"
 
 group :test do
