@@ -1,3 +1,18 @@
+---
+title: Text and Typography
+author: cotes
+date: 2022-11-04 11:33:00 +0800
+categories: [Downloads]
+tags: [web templates]
+image:
+  path: /commons/devices-mockup.png
+  width: 800
+  height: 500
+  alt: Responsive rendering of Chirpy theme on multiple devices.
+---
+
+This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+
 ## WordPress Themes
 There are thousands upon thousands of premium WordPress themes with so much quality, power, flexibility, security and ease of use. Many are **multipurpose** and developers keep creating new ones making it daunting choice for new users who just want a blog, store or simple business site. 
 ### Fastest WordPress Themes
