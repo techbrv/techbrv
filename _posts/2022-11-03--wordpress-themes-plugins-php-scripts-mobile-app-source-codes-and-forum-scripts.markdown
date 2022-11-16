@@ -14,7 +14,7 @@ tags:   [technology, workflow, story]
 [![Premium Nulled WordPress Themes]({{site.baseurl}}/images/07-2.jpg "Nulled WordPress themes free download")](https://linktofileintopic.com)
 
 ### Fastest WordPress Themes
-1. [**Schema**](https://mythemeshop.com/themes/schema "Schema WordPress Theme Demo") - the fastest loading, ultra-SEO friendly WordPress theme.  
+1. [**Schema**](https://mythemeshop.com/themes/schema "Schema WordPress Theme Demo") {:target="_blank" rel="noopener"} - the fastest loading, ultra-SEO friendly WordPress theme.  
 [Download](https://exe.io "Schema Premium Nulled Theme Download")
 
 2. Socially Viral - a beautifully designed WordPress theme that is built to be engaging, fast, and most importantly, boost viral traffic.  
