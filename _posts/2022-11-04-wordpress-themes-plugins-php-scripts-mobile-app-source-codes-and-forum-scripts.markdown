@@ -1,9 +1,9 @@
 ---
-title: Text and Typography
+title: WordPress Themes, Plugins, PHP Scripts, Mobile App Source Codes and Forum Scripts
 author: cotes
 date: 2022-11-04 11:33:00 +0800
-categories: [Downloads]
-tags: [web templates]
+categories: [Blogging, Downloads]
+tags: [templates]
 image:
   path: /commons/devices-mockup.png
   width: 800
@@ -16,11 +16,11 @@ This post is to show Markdown syntax rendering on [**Chirpy**](https://github.co
 ## WordPress Themes
 There are thousands upon thousands of premium WordPress themes with so much quality, power, flexibility, security and ease of use. Many are **multipurpose** and developers keep creating new ones making it daunting choice for new users who just want a blog, store or simple business site. 
 ### Fastest WordPress Themes
-1. <a href="https://demo.mythemeshop.com/s/?theme=SociallyViral" rel="noopener noreferrer" target="_blank">**Socially Viral**</a> - a beautifully designed viral traffic WordPress theme built to be engaging and fast  
+1. <a href="https://demo.mythemeshop.com/s/?theme=SociallyViral" rel="noopener noreferrer" target="_blank">**Socially Viral**</a> - a beautifully designed viral traffic WordPress theme built to be engaging and fast
 
 [image](https://dummyimage.com/300/Eeeeee/ffffff.jpg&text=TechBrv)
 
-- <a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download Socially Viral theme</a>  
+- <a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download Socially Viral theme</a>
 
 2. <a href="https://generatepress.com/site-library" rel="noopener noreferrer" target="_blank">**GeneratePress**</a> - a lightweight WordPress theme focused on speed, stability, and accessibility.  
 
