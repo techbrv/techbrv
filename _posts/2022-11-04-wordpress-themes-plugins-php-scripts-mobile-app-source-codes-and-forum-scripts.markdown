@@ -27,7 +27,7 @@ There are thousands upon thousands of premium WordPress themes with so much qual
 - <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download Neve theme</a>  
 
 > Download <a href="https://sheets.google.com" target="_blank">hundreds of the fastest WordPress themes here </a> including <a href="https://wpastra.com/starter-templates" target="_blank" rel="noopener noreferrer" >Astra</a>,  <a href="https://pressmaximum.com/customify/site-library" target="_blank" rel="noopener noreferrer">Customify</a>, <a href="https://demo.mythemeshop.com/s/?theme=Schema" target="_blank" rel="noopener noreferrer" >Schema</a>, <a href="https://oceanwp.org/demos/" target="_blank" rel="noopener noreferrer" >OceanWP</a>, <a href="https://creativethemes.com/blocksy/starter-sites/" target="_blank" rel="noopener noreferrer">Blocksy</a> and more
-{: .prompt-info }
+{: .prompt-warning }
 
 ## Popular WordPress Themes
 1. <a href="https://demo.mythemeshop.com/s/?theme=SociallyViral" rel="noopener noreferrer" target="_blank">**Socially Viral**</a> - a beautifully designed viral traffic WordPress theme built to be engaging and fast
