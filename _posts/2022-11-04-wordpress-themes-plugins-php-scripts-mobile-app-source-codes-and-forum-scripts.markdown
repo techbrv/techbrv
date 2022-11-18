@@ -5,7 +5,7 @@ date: 2022-11-04 11:33:00 +0800
 categories: [Downloads, Web Templates]
 tags: [templates]
 image:
-  path: /commons/devices-mockup.png
+  path: https://dummyimage.com/1280x800/4a1916/fff.jpg&text=TechBrv
   width: 800
   height: 500
   alt: Responsive rendering of Chirpy theme on multiple devices.
