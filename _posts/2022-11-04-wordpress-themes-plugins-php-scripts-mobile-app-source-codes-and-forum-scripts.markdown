@@ -2,7 +2,7 @@
 title: WordPress Themes, Plugins, PHP Scripts, Mobile App Source Codes and Forum Scripts
 author: cotes
 date: 2022-11-04 11:33:00 +0800
-categories: [Downloads, Web Templates]
+categories: [Downloads, Web Templates, Shortcuts]
 tags: [templates]
 image:
   path: https://dummyimage.com/1280x800/4a1916/fff.jpg&text=TechBrv
