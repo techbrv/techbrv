@@ -2,7 +2,7 @@
 title: WordPress Themes, Plugins, PHP Scripts, Mobile App Source Codes and Forum Scripts
 author: cotes
 date: 2022-11-04 11:33:00 +0800
-categories: [Blogging, Downloads]
+categories: [Downloads, Web Templates]
 tags: [templates]
 image:
   path: /commons/devices-mockup.png
@@ -13,7 +13,7 @@ image:
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
 
-## **WordPress Themes**
+## **Download WordPress Themes**
 There are thousands upon thousands of premium WordPress themes with so much quality, power, flexibility, security and ease of use. Many are **multipurpose** and developers keep creating new ones making it daunting choice for new users who just want a blog, store or simple business site. 
 ### **Fastest WordPress Themes**
 1. <a href="https://demo.mythemeshop.com/s/?theme=SociallyViral" rel="noopener noreferrer" target="_blank">**Socially Viral**</a> - a beautifully designed viral traffic WordPress theme built to be engaging and fast
@@ -27,25 +27,39 @@ There are thousands upon thousands of premium WordPress themes with so much qual
 - <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download Neve theme</a>  
 
 > Download **<a href="https://sheets.google.com" target="_blank">hundreds of the fastest WordPress themes here </a>** including <a href="https://wpastra.com/starter-templates" target="_blank" rel="noopener noreferrer" >Astra</a>,  <a href="https://pressmaximum.com/customify/site-library" target="_blank" rel="noopener noreferrer">Customify</a>, <a href="https://demo.mythemeshop.com/s/?theme=Schema" target="_blank" rel="noopener noreferrer" >Schema</a>, <a href="https://oceanwp.org/demos/" target="_blank" rel="noopener noreferrer" >OceanWP</a>, <a href="https://creativethemes.com/blocksy/starter-sites/" target="_blank" rel="noopener noreferrer">Blocksy</a> and more
+{: .prompt-info }  
+
+### **Popular WordPress Themes**
+1. <a href="https://www.elegantthemes.com/layouts/" rel="noopener noreferrer" target="_blank">**Divi**</a> - most used multipurpose WordPress theme
+- 2000+ premade Divi layouts
+- 200+ website packs
+![image](https://dummyimage.com/1280x800/F7f9Fb/a7a9ac.jpg&text=TechBrv){: w-1280 h-800}
+- <a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download Divi theme</a>
+2. <a href="https://demo.tagdiv.com/select_demo/newspaper-prebuilt-websites" rel="noopener noreferrer" target="_blank">**Newspaper**</a> - the go-to WordPress builder for news, magazine, business, WooCommerce & membership websites
+- 150+ Prebuilt Websites.  
+![image](https://dummyimage.com/1280x800/F7f9Fb/a7a9ac.jpg&text=TechBrv){: w-1280 h-800 }
+- <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download Newspaper theme</a>  
+3. <a href="https://soledad.pencidesign.net/landing-page" rel="noopener noreferrer" target="_blank">**Soledad**</a> - a multipurpose blog, news or business WordPress Theme. Create unique & professional websites in some minutes
+- 250+ Pre-built sites
+- 1000+ Pre-built blocks
+![image](https://dummyimage.com/1280x800/F7f9Fb/a7a9ac.jpg&text=TechBrv){: w-1280 h-800 }  
+- <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download Soledad theme</a>  
+
+> Download **<a href="https://sheets.google.com" target="_blank">hundreds more popular WordPress themes here </a>** including <a href="https://muffingroup.com/betheme" target="_blank" rel="noopener noreferrer">BeTheme</a>, <a href="https://www.studiopress.com/themes" target="_blank" rel="noopener noreferrer" >StudioPress</a>, <a href="https://the7.io/?term=elementor#!/demos" target="_blank" rel="noopener noreferrer" >The7</a>,  <a href="https://exponentwptheme.com" target="_blank" rel="noopener noreferrer">Exponent</a>, <a href="https://kaliumtheme.com" target="_blank" rel="noopener noreferrer" >Kalium</a>, <a href="https://codex-themes.com/thegem/meta-splash" target="_blank" rel="noopener noreferrer">TheGem</a> and more
 {: .prompt-info }
 
-## Popular WordPress Themes
-1. <a href="https://demo.mythemeshop.com/s/?theme=SociallyViral" rel="noopener noreferrer" target="_blank">**Socially Viral**</a> - a beautifully designed viral traffic WordPress theme built to be engaging and fast
-- 40+ widgets
-- 35+ demos  
 
-[image](https://dummyimage.com/300/Eeeeee/ffffff.jpg&text=TechBrv)  
+### **Woocommerce WordPress Themes**
+1. <a href="https://flatsome3.uxthemes.com" rel="noopener noreferrer" target="_blank">**Flatsome**</a> - a Trendy WordPress theme to build a attractive and high converting woocommerce store. 
+![image](https://dummyimage.com/1280x800/F7f9Fb/a7a9ac.jpg&text=TechBrv){: w-1280 h-800}
+- <a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download Flatsome theme</a>
+2. <a href="https://generatepress.com/site-library" rel="noopener noreferrer" target="_blank">**REHub**</a> - a lightweight WordPress theme focused on speed, stability, and accessibility.  
+![image](https://dummyimage.com/1280x800/F7f9Fb/a7a9ac.jpg&text=TechBrv){: w-1280 h-800 }
+- <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download GeneratePress theme</a>  
+3. <a href="https://xstore.8theme.com/#demos-content" rel="noopener noreferrer" target="_blank">**XStore**</a> - a customizable WordPress theme with high converting eCommerce features.  
+- 120+ ready demos
+![image](https://dummyimage.com/1280x800/F7f9Fb/a7a9ac.jpg&text=TechBrv){: w-1280 h-800 }  
+- <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download XStore theme</a>  
 
-<a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download Socially Viral Theme</a>  
-
-2. <a href="https://generatepress.com/site-library" rel="noopener noreferrer" target="_blank">**GeneratePress**</a> - a lightweight WordPress theme focused on speed, stability, and accessibility.  
-
-[image](https://dummyimage.com/300/Eeeeee/ffffff.jpg&text=TechBrv)  
-
-<a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download GeneratePress Theme</a>  
-
-3. <a href="https://themeisle.com/themes/neve/starter-sites" rel="noopener noreferrer" target="_blank">**Neve**</a> - has mobile-first approach, compatibility with AMP, and popular page-builders making website building accessible for everyone.  
-
-[image](https://dummyimage.com/300/Eeeeee/ffffff.jpg&text=TechBrv)  
-
-<a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download Neve Theme</a>  
+> Download **<a href="https://sheets.google.com" target="_blank">hundreds more Woocommerce WordPress themes here </a>** including <a href="https://woodmart.xtemos.com" target="_blank" rel="noopener noreferrer" >Woodmart</a>,  <a href="https://demo.theme-sky.com/druco/" target="_blank" rel="noopener noreferrer">Druco</a>, <a href="https://minimog-landing.thememove.com" target="_blank" rel="noopener noreferrer" >Minimog</a>, <a href="https://themeforest.net/item/goya-modern-woocommerce-theme/25175097" target="_blank" rel="noopener noreferrer" >Goya</a>, <a href="https://klbtheme.com/machic/intro" target="_blank" rel="noopener noreferrer">Machic</a> and more
+{: .prompt-info }  
