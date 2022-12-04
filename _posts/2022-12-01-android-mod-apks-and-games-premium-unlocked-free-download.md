@@ -13,23 +13,12 @@ image:
 
 ### **Books & Reference Android Apps**
 
-- [x] Education
-- [x] Office 
-- [x] Optical Character Recognition (OCR)
-- [x] Ebook & PDF Readers & Convertors
-- [x] Calculators
-- [x] Medical Health & Fitness
-- [x] Food & Drink 
-- [x] News & Magazine
-
 1. <a href="https://play.google.com/store/apps/details?id=cn.wps.moffice_eng" rel="noopener noreferrer" target="_blank">**WPS Office**</a> - Open, edit, scan, convert, process, and print office documents, Word, Excel, PowerPoint, PDF, and PowerPoint. Use templates and save documents to cloud services. 
-
 ![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=WPS+Office+Premium+App){: w-1280 h-800}  
 - <a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download WPS Office Premium Apk</a>
 
 2. <a href="https://play.google.com/store/apps/details?id=com.sololearn" rel="noopener noreferrer" target="_blank">**SoloLearn**</a> - features a free, easy-to-understand and friendly way to learn and practice over 20+ programming languages, including Python, JavaScript, HTML, SQL, Java, C++ etc alongside over 40 million programming students worldwide. 
 ![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=SoloLearn+App+Unlocked){: w-100% h-100% }  
-
 - <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download SoloLearn Mod Apk</a>  
 
 > Download more **<a href="https://sheets.google.com" target="_blank">Books & Reference Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=com.microblink.photomath" target="_blank" rel="noopener noreferrer" >Photo Math</a>,  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets" target="_blank" rel="noopener noreferrer">Google Sheets</a>, <a href="hhttps://play.google.com/store/apps/details?id=daily.devotion.bible" target="_blank" rel="noopener noreferrer" >Daily Devotionals Bible</a>, <a href="https://play.google.com/store/apps/details?id=livio.pack.lang.en_US" target="_blank" rel="noopener noreferrer" >English Dictionary</a>, <a href="https://play.google.com/store/apps/details?id=com.storyshots.android" target="_blank" rel="noopener noreferrer">StoryShots: Book Summaries</a> etc
@@ -45,11 +34,11 @@ image:
 
 1. <a href="https://play.google.com/store/apps/details?id=com.opera.mini.native" rel="noopener noreferrer" target="_blank">**Opera Mini**</a> - gives FREE 50MB daily data and features a data saver, ad blocker, online sync, incognito mode, on page video detection and more. 
 
-![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=Opera+Mini+Free+Browsing){: w-1280 h-800}  
+![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=Opera+Mini+Free+Browsing){: w-1280 h-800}
 - <a href="https://exe.com" target="_blank" rel="noopener nofollow" >Download Opera Mini Mod Apk</a>
 
 2. <a href="https://play.google.com/store/apps/details?id=com.sharpregion.tapet" rel="noopener noreferrer" target="_blank">**Vidmate**</a> - allows you to choose quality of videos and audio before from YouTube or Facebook and any other website by choosing video quality or download as audio MP3/M4A. Also has a web browser and allows downloading streaming TV Shows, Movies and HD videos. 
-![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=Vidmate+App){: w-100% h-100% }  
+![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=Vidmate+App){: w-100% h-100% }
 
 - <a href="https://exe.io" target="_blank" rel="noopener nofollow" >Download Vidmate Premium Mod App</a>  
 
