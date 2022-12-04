@@ -27,7 +27,7 @@ We have thousands of amazing paid and unlocked apps from Google Play Store that 
 > Download more **<a href="https://sheets.google.com" target="_blank">Books & Reference Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=com.microblink.photomath" target="_blank" rel="noopener noreferrer" >Photo Math</a>,  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets" target="_blank" rel="noopener noreferrer">Google Sheets</a>, <a href="hhttps://play.google.com/store/apps/details?id=daily.devotion.bible" target="_blank" rel="noopener noreferrer" >Daily Devotionals Bible</a>, <a href="https://play.google.com/store/apps/details?id=livio.pack.lang.en_US" target="_blank" rel="noopener noreferrer" >English Dictionary</a>, <a href="https://play.google.com/store/apps/details?id=com.storyshots.android" target="_blank" rel="noopener noreferrer">StoryShots: Book Summaries</a> etc
 {: .prompt-tip }
 
-_Books & Reference_ apps in other categories;
+_Books & Reference_ apps in this category;
 - [x] Education
 - [x] Office 
 - [x] Optical Character Recognition (OCR)
@@ -50,7 +50,7 @@ _Books & Reference_ apps in other categories;
 > Download more **<a href="https://sheets.google.com" target="_blank">Browsers and Internet Android Premium mod apks</a>** here; <a href="https://play.google.com/store/apps/details?id=org.torproject.torbrowser" target="_blank" rel="noopener noreferrer" >Tor Browser</a>,  <a href="https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus" target="_blank" rel="noopener noreferrer">1DM+</a>, <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.synchronizeultimate" target="_blank" rel="noopener noreferrer" >Synchronize Ultimate</a>, <a href="https://play.google.com/store/apps/details?id=com.sygic.aura" target="_blank" rel="noopener noreferrer" >Sygic GPS</a>, <a href="https://play.google.com/store/apps/details?id=eu.faircode.netguard" target="_blank" rel="noopener noreferrer">Netguard Firewall</a> etc
 {: .prompt-tip }
 
-_Browsers and Internet_ apps in other categories;
+_Browsers and Internet_ apps in this category;
 - [x] Web Browsers
 - [x] VPN
 - [x] Maps & Navigation
@@ -71,7 +71,7 @@ _Browsers and Internet_ apps in other categories;
 {: .prompt-tip }
 
 
-_Camera & Photography_ apps in other categories;
+_Camera & Photography_ apps in this category;
 - [x] Camera
 - [x] Gallery
 - [x] Photo Editors & Collage
@@ -89,7 +89,7 @@ _Camera & Photography_ apps in other categories;
 > Download more **<a href="https://sheets.google.com" target="_blank">Communication Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=org.telegram.messenger" target="_blank" rel="noopener noreferrer" >Telegram</a>,  <a href="https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en" target="_blank" rel="noopener noreferrer">Facebook</a>, <a href="https://play.google.com/store/apps/details?id=com.snapchat.android" target="_blank" rel="noopener noreferrer" >Snapchat</a>, <a href="https://play.google.com/store/apps/details?id=com.discord" target="_blank" rel="noopener noreferrer" >Discord</a>, <a href="https://play.google.com/store/apps/details?id=com.reddit.frontpage" target="_blank" rel="noopener noreferrer">Reddit</a> etc
 {: .prompt-tip }
 
-_Communication_ apps in other categories;
+_Communication_ apps in this category;
 - [x] Messengers
 - [x] Email 
 - [x] Social Media
@@ -108,7 +108,7 @@ _Communication_ apps in other categories;
 > Download more **<a href="https://sheets.google.com" target="_blank">File Management & Transfer Android mod apks</a>** such as <a href="https://play.google.com/store/apps/details?id=com.remotefairy" target="_blank" rel="noopener noreferrer" >Smart IR Remote – AnyMote</a>,  <a href="https://play.google.com/store/apps/details?id=cn.xender&hl=en" target="_blank" rel="noopener noreferrer">Xender</a>, <a href="https://play.google.com/store/apps/details?id=com.asus.filemanager" target="_blank" rel="noopener noreferrer" >Asus File Manager</a>, <a href="https://play.google.com/store/apps/details?id=com.monect.portable" target="_blank" rel="noopener noreferrer" >Monect PC Remote</a>, <a href="https://play.google.com/store/apps/details?id=x.WifiPCFileExplorerPro" target="_blank" rel="noopener noreferrer">WiFi PC File Explorer</a> etc
 {: .prompt-tip }
 
-_File Management & Transfer_ apps in other categories;
+_File Management & Transfer_ apps in this category;
 - [x] File Manager
 - [x] File Sharing 
 - [x] Remote Access
@@ -127,7 +127,7 @@ _File Management & Transfer_ apps in other categories;
 > Download more **<a href="https://sheets.google.com" target="_blank">Multimedia Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=com.cloudbeats" target="_blank" rel="noopener noreferrer" >CloudBeats</a>, <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc" target="_blank" rel="noopener noreferrer" >VLC</a>,  <a href="https://play.google.com/store/apps/details?id=com.imageline.FLM" target="_blank" rel="noopener noreferrer">FL Studio Mobile</a>, <a href="https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad" target="_blank" rel="noopener noreferrer" >MX Player</a>, <a href="https://play.google.com/store/apps/details?id=xeus.timbre" target="_blank" rel="noopener noreferrer" >Timbre</a>, <a href="https://play.google.com/store/apps/details?id=com.mixvibes.crossdjapp&hl=en" target="_blank" rel="noopener noreferrer">Cross DJ</a> etc
 {: .prompt-tip }
 
-_Multimedia_ apps in other categories;
+_Multimedia_ apps in this category;
 - [x] Media Players
 - [x] Video & Audio Editors
 - [x] Video Audio Convertors & Compressors 
@@ -145,7 +145,7 @@ _Multimedia_ apps in other categories;
 > Download more **<a href="https://sheets.gom" target="_blank">Personalization Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=org.kustom.widget" target="_blank" rel="noopener noreferrer" >KWGT Kustom Widget Maker + KWLP Pro</a>,  <a href="https://play.google.com/store/apps/details?id=projekt.substratum" target="_blank" rel="noopener noreferrer">Substratum</a>, <a href="https://play.google.com/store/apps/details?id=com.tombayley.bottomquicksettings" target="_blank" rel="noopener noreferrer" >Bottom Quick Settings</a>, <a href="https://play.google.com/store/apps/details?id=net.zedge.android" target="_blank" rel="noopener noreferrer" >ZEDGE</a>, <a href="https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin" target="_blank" rel="noopener noreferrer">Gboard</a> etc
 {: .prompt-tip }
 
-_Personalization_ apps in other categories;
+_Personalization_ apps in this category;
 - [x] Wallpapers
 - [x] Launchers
 - [x] Keyboards
@@ -168,7 +168,7 @@ _Personalization_ apps in other categories;
 > Download more **<a href="https://sheets.google.com" target="_blank">Tools, Utility & Productivity Android mod apks</a>** including <a href="https://aioseo.com" target="_blank" rel="noopener noreferrer" >Tasker</a>,  <a href="https://www.joomunited.com/wordpress-products/wp-meta-seo" target="_blank" rel="noopener noreferrer">3C System Tuner</a>, <a href="https://play.google.com/store/apps/details?id=com.icecoldapps.serversultimatepro" target="_blank" rel="noopener noreferrer" >Servers Ultimate</a>, <a href="https://play.google.com/store/apps/details?id=bin.mt.plus" target="_blank" rel="noopener noreferrer" >MT Manager</a>, <a href="https://play.google.com/store/apps/details?id=com.autoclicker.clicker" target="_blank" rel="noopener noreferrer">Tapping - Auto Clicker</a> etc
 {: .prompt-tip }
 
-_Tools, Utility & Productivity_ apps in other categories;
+_Tools, Utility & Productivity_ apps in this category;
 - [x] Antivirus & Security
 - [x] Battery & Optimization
 - [x] Art & Design
