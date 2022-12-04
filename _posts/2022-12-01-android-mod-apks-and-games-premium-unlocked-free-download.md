@@ -11,7 +11,7 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-### **Books & Reference Android Apps**
+### Books & Reference Android Apps**
 
 1. <a href="https://play.google.com/store/apps/details?id=cn.wps.moffice_eng" rel="noopener noreferrer" target="_blank">**WPS Office**</a> - Open, edit, scan, convert, process, and print office documents, Word, Excel, PowerPoint, PDF, and PowerPoint. Use templates and save documents to cloud services. 
 ![image](https://dummyimage.com/1280x800/f3866f/fff.jpg&text=WPS+Office+Premium+App){: w-1280 h-800}  
@@ -24,7 +24,7 @@ image:
 > Download more **<a href="https://sheets.google.com" target="_blank">Books & Reference Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=com.microblink.photomath" target="_blank" rel="noopener noreferrer" >Photo Math</a>,  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets" target="_blank" rel="noopener noreferrer">Google Sheets</a>, <a href="hhttps://play.google.com/store/apps/details?id=daily.devotion.bible" target="_blank" rel="noopener noreferrer" >Daily Devotionals Bible</a>, <a href="https://play.google.com/store/apps/details?id=livio.pack.lang.en_US" target="_blank" rel="noopener noreferrer" >English Dictionary</a>, <a href="https://play.google.com/store/apps/details?id=com.storyshots.android" target="_blank" rel="noopener noreferrer">StoryShots: Book Summaries</a> etc
 {: .prompt-tip }
 
-**Books & Reference apps included**;
+__Books & Reference__ apps included;
 - [x] Education
 - [x] Office 
 - [x] Optical Character Recognition (OCR)
