@@ -24,6 +24,16 @@ image:
 > Download more **<a href="https://sheets.google.com" target="_blank">Books & Reference Android mod apks</a>** like <a href="https://play.google.com/store/apps/details?id=com.microblink.photomath" target="_blank" rel="noopener noreferrer" >Photo Math</a>,  <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets" target="_blank" rel="noopener noreferrer">Google Sheets</a>, <a href="hhttps://play.google.com/store/apps/details?id=daily.devotion.bible" target="_blank" rel="noopener noreferrer" >Daily Devotionals Bible</a>, <a href="https://play.google.com/store/apps/details?id=livio.pack.lang.en_US" target="_blank" rel="noopener noreferrer" >English Dictionary</a>, <a href="https://play.google.com/store/apps/details?id=com.storyshots.android" target="_blank" rel="noopener noreferrer">StoryShots: Book Summaries</a> etc
 {: .prompt-tip }
 
+**Books & Reference apps included**;
+- [x] Education
+- [x] Office 
+- [x] Optical Character Recognition (OCR)
+- [x] Ebook & PDF Readers & Convertors
+- [x] Calculators
+- [x] Medical Health & Fitness
+- [x] Food & Drink 
+- [x] News & Magazine
+
 ### **Browsers and Internet Android Apps**
 
 - [x] Web Browsers
