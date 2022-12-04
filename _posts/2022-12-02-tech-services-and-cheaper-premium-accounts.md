@@ -31,6 +31,10 @@ Content creation,
 |:-:|:-:|
 |![First Image](https://images.pexels.com/photos/585759/pexels-photo-585759.jpeg?h=750&w=1260)|![Second Image](https://images.pexels.com/photos/1335115/pexels-photo-1335115.jpeg?h=750&w=1260)|
 
+| Company                      | Contact          |
+|:-----------------------------|:-----------------|
+| ![image](https://dummyimage.com/1280x800/4a1916/fff.jpg&text=TechBrv| Maria Anders     |
+
 We design easily navigable layouts
 
 <details open>
