@@ -33,7 +33,7 @@ Content creation,
 
 | Company                      | Contact          |
 |:-----------------------------|:-----------------|
-| ![image](https://dummyimage.com/1280x800/4a1916/fff.jpg&text=TechBrv| Maria Anders     |
+| ![image](https://dummyimage.com/1280x800/4a1916/fff.jpg&text=TechBrv)| Maria Anders     |
 
 We design easily navigable layouts
 
